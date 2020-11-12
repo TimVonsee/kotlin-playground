@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="aoc.Day1Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-11-12T09:36:35" hostname="Tims-MacBook-Pro-2.local" time="0.076">
+  <properties/>
+  <testcase name="testFrequencyDrifts" classname="aoc.Day1Test" time="0.031"/>
+  <testcase name="testDoubleFrequencies" classname="aoc.Day1Test" time="0.045"/>
+  <system-out><![CDATA[505
+Double frequency = 72330
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
